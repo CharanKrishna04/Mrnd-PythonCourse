@@ -1,0 +1,22 @@
+{
+  "2.py::test_string_formatting": true,
+  "4.py::test_sequence_conversion": true,
+  "builtins/magic.py::test_is_oct_magic": true,
+  "generators/cipherSaadu.py": true,
+  "mocktest1_problem1.py": true,
+  "unit1_lesson_00_understanding_assert.py::test_assert_true": true,
+  "unit1_lesson_01_understanding_numbers.py": true,
+  "unit1_lesson_05_understanding_dicts.py": true,
+  "unit2_lesson_01_understanding_controlflow.py::test_for_loop_else_continue": true,
+  "unit2_lesson_05_understanding_functions_part2.py": true,
+  "unit2_lesson_07_understanding_scopes.py": true,
+  "unit3_lesson_01_understanding_tutor.py": true,
+  "unit3_lesson_02_understanding_rubberduck.py": true,
+  "unit3_lesson_04_understanding_debugger.py::test_binary_search": true,
+  "unit4_lesson_07_understanding_inheritance.py": true,
+  "unit6_lesson_02_understanding_decorators.py::test_decorators_old_way": true,
+  "unit6_lesson_02_understanding_decorators.py::test_decorators_promote_reuse": true,
+  "unit6_lesson_02_understanding_decorators.py::test_decorators_syntax": true,
+  "unit6_lesson_04_understanding_fileio.py::test_file_iteration_tell": true,
+  "unit6_lesson_04_understanding_fileio.py::test_file_tell": true
+}
